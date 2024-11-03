@@ -148,7 +148,7 @@ body{
 		padding: 15% 10%;
 		background: url(busyroad.png);
 		background-position: center;
-		background-size:contain;
+		background-size:cover;
 		background-repeat: no-repeat;
 	}
 
